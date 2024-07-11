@@ -1,2 +1,2 @@
-# text-classification
-Projects on text classification -series
+# ML projects implementation series
+Projects on ML -series
